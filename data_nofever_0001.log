@@ -1,0 +1,10 @@
+{"Dato": "2021-02-01 7:53:11", "PersonTemp": "36.72", "RoomTemp": "24.45", "mask": "wrong", "age": 0, "gender": "female", "emotion": "frustrated", "height": "1.54", "NoFeverID": 1}
+{"Dato": "2021-02-01 13:25:43", "PersonTemp": "37.73", "RoomTemp": "24.60", "mask": "off", "age": 0, "gender": "female", "emotion": "happy", "height": "1.78", "NoFeverID": 1}
+{"Dato": "2021-02-01 20:00:23", "PersonTemp": "37.47", "RoomTemp": "16.42", "mask": "on", "age": 0, "gender": "male", "emotion": "sad", "height": "1.63", "NoFeverID": 1}
+{"Dato": "2021-02-01 1:25:59", "PersonTemp": "37.11", "RoomTemp": "18.71", "mask": "off", "age": 0, "gender": "male", "emotion": "sad", "height": "1.62", "NoFeverID": 1}
+{"Dato": "2021-02-01 8:22:57", "PersonTemp": "36.56", "RoomTemp": "19.45", "mask": "on", "age": 0, "gender": "male", "emotion": "happy", "height": "1.64", "NoFeverID": 1}
+{"Dato": "2021-02-01 15:23:46", "PersonTemp": "37.46", "RoomTemp": "22.81", "mask": "wrong", "age": 0, "gender": "female", "emotion": "frustrated", "height": "1.94", "NoFeverID": 1}
+{"Dato": "2021-02-01 22:07:30", "PersonTemp": "37.09", "RoomTemp": "16.52", "mask": "off", "age": 0, "gender": "male", "emotion": "frustrated", "height": "1.69", "NoFeverID": 1}
+{"Dato": "2021-02-01 15:34:21", "PersonTemp": "36.75", "RoomTemp": "18.80", "mask": "on", "age": 0, "gender": "female", "emotion": "happy", "height": "1.62", "NoFeverID": 1}
+{"Dato": "2021-02-01 11:29:34", "PersonTemp": "37.23", "RoomTemp": "16.87", "mask": "on", "age": 0, "gender": "female", "emotion": "frustrated", "height": "1.66", "NoFeverID": 1}
+{"Dato": "2021-02-01 0:29:45", "PersonTemp": "38.98", "RoomTemp": "21.73", "mask": "wrong", "age": 0, "gender": "female", "emotion": "sad", "height": "1.91", "NoFeverID": 1}
