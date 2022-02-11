@@ -7,7 +7,7 @@ def mysqlconnect():
     try:
         db_connection = mysql.connector.connect(
             user="Nalle",
-            password="Nalle020995!",
+            password="************",
             host="localhost",
             port="3306",
             database="testDatabase"
